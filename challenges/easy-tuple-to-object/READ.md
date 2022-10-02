@@ -15,4 +15,3 @@ type result = TupleToObject<typeof tuple> // expected { tesla: 'tesla', 'model 3
 
 1. typeof [链接](https://www.typescriptlang.org/docs/handbook/2/typeof-types.html)
 2. 遍历数组的方法：T[number]
-3. 
